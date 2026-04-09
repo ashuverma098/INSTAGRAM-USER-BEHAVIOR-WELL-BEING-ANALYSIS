@@ -41,3 +41,21 @@ The raw dataset was processed using Power Query Editor to ensure data integrity 
 - The Stress Correlation Matrix: This section uses a matrix to identify if high app usage correlates with happiness/stress levels across different socioeconomic tiers globally.
 - Content Theme by Gender: A clustered column chart analyzing preferred themes (Fitness, Food, Tech, etc.) segmented by Female, Male, Non-binary, and "Prefer not to say."
 - Security Status: A verification metric tracking "Users by 2-Factor Authorization" to measure platform trust and security.
+# 🔮 Forecasting & Predictive Analysis
+This project leverages Power BI’s built-in forecasting models (exponential smoothing) to predict future trends based on 15 years of historical user data.
+- 1. User Growth Projection (2025 - 2030)
+- Methodology: Applied an Exponential Smoothing model to the "Number of Users Added per Year" dataset with a 95% confidence interval.
+- Result: Forecasts suggest a steady increase in user acquisition, particularly in emerging markets like Brazil and South Africa, despite nearing platform saturation in     Urban USA.
+- 2. Behavioral Trend Prediction: The "Stress Peak"
+- Analysis: Based on the "Books Read vs. Stress Score" correlation, a trend analysis was performed to predict potential "digital burnout" phases.
+- Insight: Forecasting indicates that without intervention in Reel consumption limits, average user stress scores could rise by 12% over the next fiscal year
+# 🏁 Conclusion
+- This project demonstrates the power of data storytelling by transforming over 1 million rows of raw social media data into a multi-layered analysis of user behavior. By bridging the gap between demographics and psychological wellness, this dashboard provides a 360-degree view of the modern digital user.
+- Key Takeaways:
+- Technical Proficiency: Demonstrated mastery of the full data lifecycle—from complex data cleaning in Power Query to advanced statistical modeling and forecasting in Power BI.
+- Behavioral Insight: Proved that engagement isn't just a number; it correlates deeply with lifestyle factors like employment, education, and physical health.
+- Security & Growth: Provided a roadmap for platform growth by identifying high-potential markets and quantifying the current state of user security (2FA).
+# 📬 Contact & Portfolio
+If you have any questions about the methodology or would like to discuss the findings further, feel free to reach out!
+- LinkedIn: www.linkedin.com/in/ashu-verma-386046212
+- Email: ashuv098verma@gmail.com
